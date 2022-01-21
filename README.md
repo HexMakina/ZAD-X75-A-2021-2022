@@ -15,7 +15,7 @@ indépendant des produits, capable de vendre les catégories suivantes:
 - equipement de sport
 
 ## Fonctions
-Voir fichier tabulé
+Voir fichier tabulé (fonctions.ods)
 
 ## Technologies
 - HTML 5 / CSS 3 / JS / PHP 8.0 / MySQL 8.0 (ou MariaDB)
