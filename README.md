@@ -51,3 +51,10 @@ Voir fichier tabulé (fonctions.ods)
 ### Promotions
 ### Profile
 ### Historique d'achats
+
+
+## Fonctions NICE
+### Interaction clients/clients
+### Réputation Produits
+### Traduction
+### Partage sur réseau sociaux
