@@ -48,6 +48,32 @@ Voir fichier tabulé (fonctions.ods)
 
 ### Recommandations
 ### Personnalisation
+
+Quoi: 
+permet de personnaliser l'interface selon les préférences visuelles de l'utilisateur
+
+Pourquoi:
+	- Permet de fidéliser le client en lui proposant une interface plaisante
+	- Permet de désactiver le système "couché de soleil"
+	- Améliore l'accessibilité en permettant de fixer une taille de police plus grande/petite
+
+Comment:
+Donner la possibilité à l'utilisateur d'intervenir sur le design du site via l'espace Profile.
+
+Dans cet espace, un lien "Personnaliser" est disponible, il mène à une page permettant:
+	1. de changer la couleur de fond et de texte
+	2. de changer la couleur des liens
+	3. de changer la police de caractère et sa taille
+	4. de (dés)activer le mode "Couché de Soleil"
+	5. de (dés)activer le mode Jour/Nuit 
+
+L'utilisateur cochera les cases nécessaire, choisira les couleurs voulues et finira par sauvegarder ses préférences. 
+
+Après la sauvegarde, 
+	- un message de confirmation/infirmation apparaîtra
+	- on arrive sur la page "Personnaliser" ou "Profile" à décider
+
+
 ### Promotions
 ### Profile
 ### Historique d'achats
