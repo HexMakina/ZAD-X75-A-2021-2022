@@ -180,6 +180,15 @@ Comment :
 
 ### Profile
 ### Historique d'achats
+l’historique d’achat représente l’expérience de vos clients en rapport avec votre entreprise et vos produits ou services.
+
+Grâce aux données issues de l’historique d’achat, vous pouvez connaître :
+
+Vos meilleurs clients en termes de chiffre d’affaires
+Les clients qui achètent le plus de produits
+Les produits les plus achetés
+Le panier moyen
+La fréquence d’achat  
 
 
 ## Fonctions NICE
