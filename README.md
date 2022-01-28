@@ -69,6 +69,12 @@ Comment ?
 
 ### Mode nuit & couché de  soleil
 
+- Quoi ? Il permet un changement de couleur sur tout le site. 
+
+- Pourquoi ? Pour le confort visuel du visiteur 
+
+- Comment ? Choisir le mode jour ou nuit grâce à un switch, qui change le background et le texte de couleur (texte sombre sur fond clair et inversement). 
+
 ### Page produit
 Quoi: presentation du produit
 - nom du produit
