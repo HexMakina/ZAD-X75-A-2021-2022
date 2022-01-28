@@ -33,6 +33,16 @@ indépendant des produits, capable de vendre les catégories suivantes:
 Voir <strong>fichier</strong> tabulé (fonctions.ods)
 
 ### Recherche/Filtre/Liste
+Quoi ? 
+- Permet d’afficher une liste d’articles correspondant à la recherche de l’utilisateur. L’application de filtres permet de trier les articles par catégories.  
+
+Pourquoi ? 
+- Permet au client de trouver plus facilement les articles qu’il recherche parmi la liste des produits proposé par la plateforme. 
+
+Comment ? 
+- Afficher une barre de recherche ou l’utilisateur pourra entrer le nom de de l’article qu’il souhaite consulter. Elle devra est en tête du site et devrait toujours être accessible partout sur le site. Le site affichera l’article ou des produits similaires. 
+- Si l’utilisateur n’a pas d’article à rechercher ou souhaite obtenir une recherche plus précise, il peut toujours sélectionner différents types de produits à l’aide des filtres/catégories. Il pourra également rechercher sont article directement dans une catégorie. 
+- Lorsque l’utilisateur utilisera la fonction de recherche, le site affichera l’article ou des produits similaires sous la forme d’une liste.
 
 ### Intéractions
 
@@ -62,6 +72,15 @@ Ou est ce qu'on sort:
 
 
 ### Meilleures ventes
+
+Quoi ? 
+- Une bannière en tête de site affichera les produits les plus populaires en vente. 
+
+Pourquoi ?
+- Permettre aux utilisateurs de trouver les produits phare de la plateforme.  
+
+Comment ?
+- Affiche une bannière avec des articles que l’on peut directement ajouter au panier. 
 
 ### Mode nuit & couché de  soleil
 
