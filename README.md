@@ -126,6 +126,18 @@ Après la sauvegarde,
 
 
 ### Promotions
+
+Pourquoi :
+Permet d'avertir l'utilisateur lorsque une promotion est lancée.
+
+Quoi: 
+Offres de prix temporaires sur certains produits ou catégories de produits.
+
+Comment : 
+- Bannière cliquable affiché en haut de l'écran et qui nous redirige vers la page ou les produits bénéficiant de la promotion sont affichés
+- Décompte ( jours/ heures / minutes )
+- Promo affiché sur la page produit
+
 ### Profile
 ### Historique d'achats
 
