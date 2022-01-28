@@ -34,7 +34,12 @@ Voir <strong>fichier</strong> tabulé (fonctions.ods)
 
 ### Recherche/Filtre/Liste
 
-### Intéractions/Réputation
+### Intéractions
+
+### Réputation
+Quoi: 
+Pourquoi:
+Comment:
 
 ### Panier/Commande
 Quoi: page présentation pour les produits ajoutés au panier
@@ -83,6 +88,9 @@ Comment:
 ## Fonctions SHOULD
 
 ### Recommandations
+Quoi: 
+Pourquoi:
+Comment:
 ### Personnalisation
 
 Quoi: 
