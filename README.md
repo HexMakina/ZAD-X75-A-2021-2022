@@ -30,7 +30,7 @@ indépendant des produits, capable de vendre les catégories suivantes:
 
 
 ## Fonctions MUST
-Voir fichier tabulé (fonctions.ods)
+Voir <strong>fichier</strong> tabulé (fonctions.ods)
 
 ### Recherche/Filtre/Liste
 
