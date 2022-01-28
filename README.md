@@ -37,7 +37,8 @@ Voir <strong>fichier</strong> tabulé (fonctions.ods)
 ### Intéractions
 
 ### Réputation
-Quoi: Un retour d'opinion des clients sur des produits
+Quoi: 
+- Un retour d'opinion des clients sur des produits
 Pourquoi:
 - pour récolter des informations sur l'opinion des clients sur nos produits afin d'établir leur popularité et de les améliorer
 Comment: 
