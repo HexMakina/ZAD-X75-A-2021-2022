@@ -69,12 +69,6 @@ Comment ?
 
 ### Mode nuit & couché de  soleil
 
-- Quoi ? Il permet un changement de couleur sur tout le site. 
-
-- Pourquoi ? Pour le confort visuel du visiteur 
-
-- Comment ? Choisir le mode jour ou nuit grâce à un switch, qui change le background et le texte de couleur (texte sombre sur fond clair et inversement). 
-
 ### Page produit
 Quoi: presentation du produit
 - nom du produit
@@ -175,6 +169,15 @@ Comment:
 
 
 ### Historique d'achats
+l’historique d’achat représente l’expérience de vos clients en rapport avec votre entreprise et vos produits ou services.
+
+Grâce aux données issues de l’historique d’achat, vous pouvez connaître :
+
+Vos meilleurs clients en termes de chiffre d’affaires
+Les clients qui achètent le plus de produits
+Les produits les plus achetés
+Le panier moyen
+La fréquence d’achat  
 
 
 ## Fonctions NICE
