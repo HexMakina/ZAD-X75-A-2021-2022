@@ -33,6 +33,7 @@ indépendant des produits, capable de vendre les catégories suivantes:
 Voir <strong>fichier</strong> tabulé (fonctions.ods)
 
 ### Recherche/Filtre/Liste
+Anthony
 Quoi ? 
 - Permet d’afficher une liste d’articles correspondant à la recherche de l’utilisateur. L’application de filtres permet de trier les articles par catégories.  
 
@@ -43,6 +44,14 @@ Comment ?
 - Afficher une barre de recherche ou l’utilisateur pourra entrer le nom de de l’article qu’il souhaite consulter. Elle devra est en tête du site et devrait toujours être accessible partout sur le site. Le site affichera l’article ou des produits similaires. 
 - Si l’utilisateur n’a pas d’article à rechercher ou souhaite obtenir une recherche plus précise, il peut toujours sélectionner différents types de produits à l’aide des filtres/catégories. Il pourra également rechercher sont article directement dans une catégorie. 
 - Lorsque l’utilisateur utilisera la fonction de recherche, le site affichera l’article ou des produits similaires sous la forme d’une liste.
+Alexis
+
+- Quoi ? Une zone de recherche et des filtres pour avoir une liste de produits plus pertinente selon la recherche du visiteur
+
+- Pourquoi ? Pour facilité la recherche de produit cherché par le visiteur.
+
+- Comment ? Suivant la catégorie de produit ou la recherche du visiteur, le filtre nous proposera des critères comme le prix, la taille, la couleur, … À choisir en fonction du sujet du site, ceux-ci seront sélectionnables grâce à des menus déroulant, checkbox, choix du prix. (prix min/prix max)
+
 
 ### Intéractions
 
@@ -83,6 +92,12 @@ Comment ?
 - Affiche une bannière avec des articles que l’on peut directement ajouter au panier. 
 
 ### Mode nuit & couché de  soleil
+
+- Quoi ? Il permet un changement de couleur sur tout le site.
+
+- Pourquoi ? Pour le confort visuel du visiteur
+
+- Comment ? Choisir le mode jour ou nuit grâce à un switch, qui change le background et le texte de couleur (texte sombre sur fond clair et inversement). 
 
 ### Page produit
 Quoi: presentation du produit
