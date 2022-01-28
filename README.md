@@ -58,6 +58,14 @@ Ou est ce qu'on sort:
 
 
 ### Meilleures ventes
+Quoi ? 
+- Une bannière en tête de site affichera les produits les plus populaires en vente. 
+
+Pourquoi ? 
+- Permettre aux utilisateurs de trouver les produits phare de la plateforme.  
+
+Comment ? 
+- Affiche une bannière avec des articles que l’on peut directement ajouter au panier. 
 
 ### Mode nuit & couché de  soleil
 
