@@ -89,7 +89,7 @@ Comment:
 
 ### Recommandations
 Quoi:
-Montrer des produits qui pourraient plaire au clients
+Montrer des produits qui pourraient plaire aux clients
 
 Pourquoi:
 Proposer des produits adaptés aux attentes de l'utilisateur
