@@ -34,9 +34,11 @@ Voir <strong>fichier</strong> tabulé (fonctions.ods)
 
 ### Recherche/Filtre/Liste
 Quoi: 
-- Permet d’afficher une liste d’articles correspondant à la recherche de l’utilisateur. L’application de filtres permet de trier les articles par catégories.  
+- Permet d’afficher une liste d’articles correspondant à la recherche de l’utilisateur. L’application de filtres permet de trier les articles par catégories.
+
 Pourquoi: 
-- Permet au client de trouver plus facilement les articles qu’il recherche parmi la liste des produits proposé par la plateforme. 
+- Permet au client de trouver plus facilement les articles qu’il recherche parmi la liste des produits proposé par la plateforme.
+ 
 Comment: 
 - Afficher une barre de recherche ou l’utilisateur pourra entrer le nom de l’article qu’il souhaite consulter.
 - Elle devra est en tête du site et devrait toujours être accessible partout sur le site. Le site affichera l’article ou des produits similaires. 
