@@ -17,7 +17,7 @@ indépendant des produits, capable de vendre les catégories suivantes:
 
 ## Technologies
 - HTML 5 / CSS 3 / JS / PHP 8.0 / MySQL 8.0 (ou MariaDB)
-- Framework Bootstrap
+- Framework CSS: Bootstrap
 - Vanilla Javascript / JQuery
 
 
