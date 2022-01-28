@@ -33,26 +33,6 @@ indépendant des produits, capable de vendre les catégories suivantes:
 Voir <strong>fichier</strong> tabulé (fonctions.ods)
 
 ### Recherche/Filtre/Liste
-	ANTHONY
-Quoi: 
-- Permet d’afficher une liste d’articles correspondant à la recherche de l’utilisateur. L’application de filtres permet de trier les articles par catégories.
-  
-Pourquoi: 
-- Permet au client de trouver plus facilement les articles qu’il recherche parmi la liste des produits proposé par la plateforme.
- 
-Comment: 
-- Afficher une barre de recherche ou l’utilisateur pourra entrer le nom de l’article qu’il souhaite consulter.
-- Elle devra est en tête du site et devrait toujours être accessible partout sur le site. Le site affichera l’article ou des produits similaires. 
-- Si l’utilisateur n’a pas d’article à rechercher ou souhaite obtenir une recherche plus précise, il peut toujours sélectionner différents types de produits à l’aide des filtres/catégories. 
-- Pourra rechercher des articles directement dans une catégorie.
-Lorsque l’utilisateur utilisera la fonction de recherche, le site affichera l’article ou des produits similaires sous la forme d’une liste. 
-
-	ALEXIS
-- Quoi ? Une zone de recherche et des filtres pour avoir une liste de produits plus pertinente selon la recherche du visiteur
-
-- Pourquoi ? Pour facilité la recherche de produit cherché par le visiteur.
-
-- Comment ? Suivant la catégorie de produit ou la recherche du visiteur, le filtre nous proposera des critères comme le prix, la taille, la couleur, … À choisir en fonction du sujet du site, ceux-ci seront sélectionnables grâce à des menus déroulant, checkbox, choix du prix. (prix min/prix max)
 
 ### Intéractions
 
@@ -109,14 +89,20 @@ Comment:
 
 ### Recommandations
 Quoi:
-Montrer des produits qui pourraient plaire aux clients
+Montrer des produits préselectioné pour les clients
 
 Pourquoi:
-Proposer des produits adaptés aux attentes de l'utilisateur
+-Facilité le choix et insciter à plus d'achats
+-augmenter les revenus
 
 Comment:
-- Visible dans le profil>historique (de consultation des produit) de l'utilisateur.
-- En lien avec les informations collectées sur l'utilisateur liées aux pages consultées qu'il consulte.
+ Distinction en 3 types de recommandations :
+ - recommandations globales basé sur la popularité des produits
+ - recommandations spécifique au clients En lien avec les informations collectées sur l'utilisateur
+ - recommandations lié au contenu du pannier
+ - Les afficher dans des parties stratégiques du site ( page d'accueille , page produit , pannier )
+
+
 
 ### Personnalisation
 
@@ -159,6 +145,21 @@ Comment :
 - Promo affiché sur la page produit
 
 ### Profile
+
+quoi : Espace pour garder des informations sur le clients utile à lui et nous
+
+pourquoi : 
+-facilité les achats regulier en diminuant le nombre de chose à écrire
+-fidélisé les clients
+-avoir des données pour eguillé les recommandations et promotions
+
+Comment:
+
+-Deux type de profil ( visible pour l'utilisateur et invisible pour l'utilisateur )
+-Garde en mémoire les données de l'utilisateur utiles aux achats ( adresse , nom , mail , coordonnée banquaire , ... )
+-Garder en mémoire les statistiques sur l'utilisateur ( ses achats , pages consulté les plus souvents , catégories populaires ) 
+
+
 ### Historique d'achats
 
 
