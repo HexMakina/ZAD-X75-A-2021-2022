@@ -37,9 +37,12 @@ Voir <strong>fichier</strong> tabulé (fonctions.ods)
 ### Intéractions
 
 ### Réputation
-Quoi: 
+Quoi: Un retour d'opinion des clients sur des produits.
 Pourquoi:
-Comment:
+- pour récolter des informations sur l'opinion des clients sur nos produits afin d'établir leur popularité et de les améliorer. 
+Comment: 
+- section commentaires
+- évaluation sur 5
 
 ### Panier/Commande
 Quoi: page présentation pour les produits ajoutés au panier
@@ -58,14 +61,6 @@ Ou est ce qu'on sort:
 
 
 ### Meilleures ventes
-Quoi ? 
-- Une bannière en tête de site affichera les produits les plus populaires en vente. 
-
-Pourquoi ? 
-- Permettre aux utilisateurs de trouver les produits phare de la plateforme.  
-
-Comment ? 
-- Affiche une bannière avec des articles que l’on peut directement ajouter au panier. 
 
 ### Mode nuit & couché de  soleil
 
@@ -97,20 +92,14 @@ Comment:
 
 ### Recommandations
 Quoi:
-Montrer des produits préselectioné pour les clients
+Montrer des produits qui pourraient plaire aux clients
 
 Pourquoi:
--Facilité le choix et insciter à plus d'achats
--augmenter les revenus
+Proposer des produits adaptés aux attentes de l'utilisateur
 
 Comment:
- Distinction en 3 types de recommandations :
- - recommandations globales basé sur la popularité des produits
- - recommandations spécifique au clients En lien avec les informations collectées sur l'utilisateur
- - recommandations lié au contenu du pannier
- - Les afficher dans des parties stratégiques du site ( page d'accueille , page produit , pannier )
-
-
+- Visible dans le profil>historique (de consultation des produit) de l'utilisateur.
+- En lien avec les informations collectées sur l'utilisateur liées aux pages consultées qu'il consulte.
 
 ### Personnalisation
 
@@ -153,31 +142,7 @@ Comment :
 - Promo affiché sur la page produit
 
 ### Profile
-
-quoi : Espace pour garder des informations sur le clients utile à lui et nous
-
-pourquoi : 
--facilité les achats regulier en diminuant le nombre de chose à écrire
--fidélisé les clients
--avoir des données pour eguillé les recommandations et promotions
-
-Comment:
-
--Deux type de profil ( visible pour l'utilisateur et invisible pour l'utilisateur )
--Garde en mémoire les données de l'utilisateur utiles aux achats ( adresse , nom , mail , coordonnée banquaire , ... )
--Garder en mémoire les statistiques sur l'utilisateur ( ses achats , pages consulté les plus souvents , catégories populaires ) 
-
-
 ### Historique d'achats
-l’historique d’achat représente l’expérience de vos clients en rapport avec votre entreprise et vos produits ou services.
-
-Grâce aux données issues de l’historique d’achat, vous pouvez connaître :
-
-Vos meilleurs clients en termes de chiffre d’affaires
-Les clients qui achètent le plus de produits
-Les produits les plus achetés
-Le panier moyen
-La fréquence d’achat  
 
 
 ## Fonctions NICE
