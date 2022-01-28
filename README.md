@@ -37,12 +37,48 @@ Voir fichier tabulé (fonctions.ods)
 ### Intéractions/Réputation
 
 ### Panier/Commande
+Quoi: page présentation pour les produits ajoutés au panier
+Pourquoi: 
+	- permet de consulter/modifier la selection de produits a acheter
+	- permet de voir le total de la commande
+	- permet d'entrer un code promo
+	- permet de passer la commande
+
+Comment on entre:
+	- les produits ont un CTA "ajouter au panier"
+	- un bouton dans le header du site (accessible sur toutes les pages)
+
+Ou est ce qu'on sort:
+	- page de confirmation de commande
+
 
 ### Meilleures ventes
 
 ### Mode nuit & couché de  soleil
 
 ### Page produit
+Quoi: presentation du produit
+	- nom du produit
+	- image
+	- description
+	- categorie(s)
+	- nombre de ventes 
+	- commentaires de satisfaction (avis)
+	- (les) prix, les promos
+	- produits suggérés (recommandations, ventes croisées)
+	- ajouter au panier (avec choix quantité)
+	- stock, disponibilité
+	
+Pourquoi:
+Présenter les informations nécessaire pour encourager à l'achat (conversion)
+
+Comment:
+	- barre de recherche
+	- page accueil (produits recommandés)
+	- lien direct
+	
+	
+
 
 ## Fonctions SHOULD
 
