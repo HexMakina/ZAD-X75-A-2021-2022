@@ -33,7 +33,8 @@ indépendant des produits, capable de vendre les catégories suivantes:
 Voir <strong>fichier</strong> tabulé (fonctions.ods)
 
 ### Recherche/Filtre/Liste
-Anthony
+anthony
+
 Quoi ? 
 - Permet d’afficher une liste d’articles correspondant à la recherche de l’utilisateur. L’application de filtres permet de trier les articles par catégories.  
 
@@ -44,6 +45,7 @@ Comment ?
 - Afficher une barre de recherche ou l’utilisateur pourra entrer le nom de de l’article qu’il souhaite consulter. Elle devra est en tête du site et devrait toujours être accessible partout sur le site. Le site affichera l’article ou des produits similaires. 
 - Si l’utilisateur n’a pas d’article à rechercher ou souhaite obtenir une recherche plus précise, il peut toujours sélectionner différents types de produits à l’aide des filtres/catégories. Il pourra également rechercher sont article directement dans une catégorie. 
 - Lorsque l’utilisateur utilisera la fonction de recherche, le site affichera l’article ou des produits similaires sous la forme d’une liste.
+
 Alexis
 
 - Quoi ? Une zone de recherche et des filtres pour avoir une liste de produits plus pertinente selon la recherche du visiteur
