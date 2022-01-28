@@ -88,9 +88,16 @@ Comment:
 ## Fonctions SHOULD
 
 ### Recommandations
-Quoi: 
+Quoi:
+Montrer des produits au client en fonction de son historique de produits consultés/recherchés.
+
 Pourquoi:
+Proposer des produits adaptés aux attentes de l'utilisateur
+
 Comment:
+- Visible dans le profil>historique (de consultation des produit) de l'utilisateur.
+- En lien avec les informations collectées sur l'utilisateur liées aux pages consultées qu'il consulte.
+
 ### Personnalisation
 
 Quoi: 
