@@ -89,7 +89,7 @@ Comment:
 
 ### Recommandations
 Quoi:
-Montrer des produits au client en fonction de son historique de produits consultés/recherchés.
+Montrer des produits qui pourraient plaire au clients
 
 Pourquoi:
 Proposer des produits adaptés aux attentes de l'utilisateur
