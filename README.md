@@ -2,10 +2,10 @@
 Projet ZAD d'e-commerce
 
 
-## Abstract
+# Abstract
 e-commerce pour une boutique, un vendeur
 
-## Objectif
+# Objectif
 indépendant des produits, capable de vendre les catégories suivantes:
 - bière
 - décoration
@@ -15,21 +15,21 @@ indépendant des produits, capable de vendre les catégories suivantes:
 - equipement de sport
 
 
-## Technologies
+# Technologies
 - HTML 5 / CSS 3 / JS / PHP 8.0 / MySQL 8.0 (ou MariaDB)
-- Framework CSS: Bootstrap
+- Framework CSS: Bootstrap (optionel)
 - Vanilla Javascript / JQuery
 
 
-## Outils
+# Outils
 - Adobe XD pour les maquettes (figma, balsamic, papier/crayon)
 - GitHub pour le code
 - IDE au choix: SublimeText, VS, Atom, phpStorm
 - XAMPP (ou autre stack)
 - phpMyAdmin
 
-
-## Fonctions MUST
+# Fonctionnalités
+## Fonctionnalités:MUST
 Voir <strong>fichier</strong> tabulé (fonctions.ods)
 
 ### Recherche/Filtre/Liste
@@ -125,7 +125,7 @@ Comment:
 	
 
 
-## Fonctions SHOULD
+##  Fonctionnalités:SHOULD
 
 ### Recommandations
 Quoi:
@@ -191,8 +191,21 @@ Le panier moyen
 La fréquence d’achat  
 
 
-## Fonctions NICE
+##  Fonctionnalités:NICE
 ### Interaction clients/clients
 ### Réputation Produits
 ### Traduction
 ### Partage sur réseau sociaux
+
+
+# Charte graphique & Wireframe
+Voir document pdf TFE_PDF.pdf
+
+Voir https://uclouvain.be/fr/decouvrir/charte-graphique-uclouvain.html
+
+# Icones & Images
+[Fontawesome](https://fontawesome.com/v5.15/icons?d=gallery&p=2)
+
+[Unsplash](https://unsplash.com/)
+
+[Freepik](https://www.freepik.com/)
