@@ -197,11 +197,13 @@ La fréquence d’achat
 ### Traduction
 ### Partage sur réseau sociaux
 
+# Site map
+Voir `sitemap.png`
 
 # Charte graphique & Wireframe
-Voir document pdf TFE_PDF.pdf
+Voir document `TFE_PDF.pdf`
 
-Voir https://uclouvain.be/fr/decouvrir/charte-graphique-uclouvain.html
+Voir [Charte UCLouvain](https://uclouvain.be/fr/decouvrir/charte-graphique-uclouvain.html)
 
 # Icones & Images
 [Fontawesome](https://fontawesome.com/v5.15/icons?d=gallery&p=2)
