@@ -6,7 +6,7 @@ Projet ZAD d'e-commerce
 e-commerce pour une boutique, un vendeur
 
 # Objectif
-indépendant des produits, capable de vendre les catégories suivantes:
+1. e-shop indépendant des produits, capable de vendre les catégories suivantes:
 - bière
 - décoration
 - software
@@ -14,6 +14,7 @@ indépendant des produits, capable de vendre les catégories suivantes:
 - plante
 - equipement de sport
 
+2. backend de gestion
 
 # Technologies
 - HTML 5 / CSS 3 / JS / PHP 8.0 / MySQL 8.0 (ou MariaDB)
