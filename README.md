@@ -53,22 +53,23 @@ Voir [Charte graphique des transports publiques de Londres](https://github.com/H
 
 # Planning
 
-21 janvier: 
+21 janvier:
+
+28 janvier:
 - présentation du cours
 - décision d'un projet commun
 - cahier de charges
 
-28 janvier: 
-- wireframe
-- charte graphique
-- sitemap
 
 4 février:
 - wireframe
 - charte graphique
+- sitemap
 
 11 février:
-- integration HTML/CSS
+- wireframe
+- charte graphique
+- sitemap
 
 18 février:
 - integration HTML/CSS
