@@ -69,8 +69,10 @@ Voir [Charte graphique des transports publiques de Londres](https://github.com/H
 
 11 février:
 - integration HTML/CSS
+
 18 février:
 - integration HTML/CSS
+
 25 février:
 - integration HTML/CSS
 
