@@ -212,3 +212,21 @@ Voir [Charte UCLouvain](https://uclouvain.be/fr/decouvrir/charte-graphique-uclou
 [Unsplash](https://unsplash.com/)
 
 [Freepik](https://www.freepik.com/)
+
+
+# Liste des projets individuels
+Alexis: https://github.com/EFP-Alexis-Lemaire/Projet-zad
+
+Anthony: https://github.com/EfpAnthony/Fournimat
+
+Bartosz: https://github.com/BartoszEfp/ZAD-PetsParadise
+
+Cédric: https://github.com/Junced/ZAD-GameNow-CEDRIC
+
+Charlotte: https://github.com/Darckcha/plante
+
+Gillian: https://github.com/SimplyV/MyTechOnWeb
+
+Guillaume: https://github.com/guillaumecliment/codeartshop
+
+Nejla: https://github.com/nejlael/Projet-zad-nejla
