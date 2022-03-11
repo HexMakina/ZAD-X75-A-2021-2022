@@ -39,7 +39,10 @@ Voir [sitemap.png](https://github.com/HexMakina/ZAD-X75-A-2021-2022/blob/main/si
 # Charte graphique & Wireframe
 Voir document [TFE_PDF.pdf](https://github.com/HexMakina/ZAD-X75-A-2021-2022/blob/main/TFE_PDF.pdf)
 
-Voir [Charte UCLouvain](https://uclouvain.be/fr/decouvrir/charte-graphique-uclouvain.html)
+Voir [Charte graphique UCLouvain](https://uclouvain.be/fr/decouvrir/charte-graphique-uclouvain.html)
+
+Voir [Charte graphique des transports publiques de Londres](https://github.com/HexMakina/ZAD-X75-A-2021-2022/blob/main/vcs-basic-elements.pdf)
+
 
 # Icones & Images
 [Fontawesome](https://fontawesome.com/v5.15/icons?d=gallery&p=2)
