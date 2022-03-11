@@ -68,9 +68,9 @@ Voir [Charte graphique des transports publiques de Londres](https://github.com/H
 - charte graphique
 
 11 février:
-
+- integration HTML/CSS
 18 février:
-
+- integration HTML/CSS
 25 février:
 - integration HTML/CSS
 
@@ -78,24 +78,25 @@ Voir [Charte graphique des transports publiques de Londres](https://github.com/H
 - integration HTML/CSS
 
 18 mars:
-- integration HTML/CSS
-
-25 mars:
-
-1 avril:
 - base de données
 
+25 mars:
+- controlleur php
+
+1 avril:
+- controlleur php
+
 4 mai:
-- controlleur
+- controlleur php
  
 9 mai:
-- controlleur
+- controlleur php
  
 13 mai:
-- controlleur
+- controlleur php
 
 25 mai:
-- controlleur
+- controlleur php
 
 30 mai: __présentation devant le jury__
 
