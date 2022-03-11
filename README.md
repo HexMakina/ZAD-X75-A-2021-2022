@@ -51,7 +51,54 @@ Voir [Charte graphique des transports publiques de Londres](https://github.com/H
 
 [Freepik](https://www.freepik.com/)
 
-# 
+# Planning
+
+21 janvier: 
+- présentation du cours
+- décision d'un projet commun
+- cahier de charges
+
+28 janvier: 
+- wireframe
+- charte graphique
+- sitemap
+
+4 février:
+- wireframe
+- charte graphique
+
+11 février:
+
+18 février:
+
+25 février:
+- integration HTML/CSS
+
+11 mars:
+- integration HTML/CSS
+
+18 mars:
+- integration HTML/CSS
+
+25 mars:
+
+1 avril:
+- base de données
+
+4 mai:
+- controlleur
+ 
+9 mai:
+- controlleur
+ 
+13 mai:
+- controlleur
+
+25 mai:
+- controlleur
+
+30 mai: __présentation devant le jury__
+
 
 # Liste des projets individuels
 Alexis: https://github.com/EFP-Alexis-Lemaire/Projet-zad
