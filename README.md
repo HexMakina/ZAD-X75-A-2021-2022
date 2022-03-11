@@ -199,10 +199,10 @@ La fréquence d’achat
 ### Partage sur réseau sociaux
 
 # Site map
-Voir `sitemap.png`
+Voir [sitemap.png](https://github.com/HexMakina/ZAD-X75-A-2021-2022/blob/main/sitemap.png)
 
 # Charte graphique & Wireframe
-Voir document `TFE_PDF.pdf`
+Voir document [TFE_PDF.pdf](https://github.com/HexMakina/ZAD-X75-A-2021-2022/blob/main/TFE_PDF.pdf)
 
 Voir [Charte UCLouvain](https://uclouvain.be/fr/decouvrir/charte-graphique-uclouvain.html)
 
@@ -213,6 +213,7 @@ Voir [Charte UCLouvain](https://uclouvain.be/fr/decouvrir/charte-graphique-uclou
 
 [Freepik](https://www.freepik.com/)
 
+# 
 
 # Liste des projets individuels
 Alexis: https://github.com/EFP-Alexis-Lemaire/Projet-zad
