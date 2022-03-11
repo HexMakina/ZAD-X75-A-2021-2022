@@ -62,11 +62,9 @@ Voir [Charte graphique des transports publiques de Londres](https://github.com/H
 
 
 4 février:
-- wireframe
-- charte graphique
-- sitemap
 
 11 février:
+
 - wireframe
 - charte graphique
 - sitemap
