@@ -52,13 +52,15 @@ Mon site se démarquerait sur le fait de pouvoir avoir un profile personnaliser 
 11/02/22
 /////////
 
-# Wireframe
+# Wireframe 
 
-. début maquette
+. Début maquette
 
 //////////
 18/03/22
 /////////
 
-Suite et fin de la maquette (fin 20/03/22)
+. Mise en ligne du site sur mon serveur
+
+. Suite et fin de la maquette (fin +- 20/03/22)
 
