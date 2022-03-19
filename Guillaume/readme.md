@@ -104,6 +104,9 @@ https://tympanus.net/Development/InlineAnchorStyles/
 https://tympanus.net/Development/3DBookShowcase/
 https://tympanus.net/Tutorials/FullscreenBookBlock/
 mega menu https://tympanus.net/Development/ExpandingRoundedMenu/
+https://tympanus.net/Development/GridZoom/
+
+https://www.whatfontis.com/?utm_source=baw&utm_medium=baw&utm_campaign=baw
 https://fonts.google.com/specimen/Inter
 https://getbootstrap.com/docs/4.0/components/carousel/
 
@@ -139,7 +142,6 @@ www.dribbble.com/shots/popular/web-design
 https://www.poussetafonte.com
 
 https://sass-lang.com
-https://www.whatfontis.com/?utm_source=baw&utm_medium=baw&utm_campaign=baw
 https://tailwindcss.com
 
 ! mega menu https://codyhouse.co/gem/css-mega-site-navigation
