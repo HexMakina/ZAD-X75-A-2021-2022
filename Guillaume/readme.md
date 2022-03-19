@@ -65,7 +65,7 @@
   Amazon website can be a good ressources for default choice when thinking about the patern of my website.
   Of course, I will try to simplify it as my plateform would only be used by one seller for a more limited and precise range of product.
 
-## 4. Ressources (good and bad user experiences) ##
+## 4. Ressources, good and bad examples ##
 
 https://www.youtube.com/pierregiraudcom
 https://www.youtube.com/c/FromScratchDéveloppementWeb
@@ -75,6 +75,7 @@ https://wpmudev.com/blog/guide-wordpress-template-hierarchy/
 https://www.w3.org/Style/Examples/007/center.fr.html
 https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_tabs
 https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_full_page_tabs
+https://developer.mozilla.org/fr/docs/Web/CSS/grid-template-rows
 https://coolors.co
 https://sdras.github.io/array-explorer/
 https://codepen.io/sdras/full/rpwjzw
@@ -82,11 +83,13 @@ https://www.megamenu.com
 https://www.cookieyes.com/privacy-policy-generator/
 https://swiperjs.com/swiper-api
 https://placeholder.com
+
 http://www.rleonardi.com
 https://monopo.vn
 https://www.awwwards.com
 https://jant.fr/
 https://www.chungiyoo.com
+
 https://tympanus.net/codrops/
 https://tympanus.net/codrops/2022/03/08/15-awesome-tools-and-resources-for-designers-and-agencies-in-2022/
 https://tympanus.net/Development/TooltipAnimations/
@@ -104,12 +107,16 @@ https://tympanus.net/Tutorials/FullscreenBookBlock/
 mega menu https://tympanus.net/Development/ExpandingRoundedMenu/
 https://fonts.google.com/specimen/Inter
 https://getbootstrap.com/docs/4.0/components/carousel/
-https://www.lemarchebio.be/719-grouped-banane-5-pieces-bio-bio
+
+listes https://www.lemarchebio.be/719-grouped-banane-5-pieces-bio-bio
 https://www.kazidomi.com/fr-BE/shop
+
 https://affinity.serif.com/fr/
 https://cleanshot.com/features#recording
 https://www.apple.com/macbook-pro-14-and-16/
 https://www.apple.com/search/mac?sel=accessories&src=globalnav&tab=accessories&f=storage&fh=4650&page=1
+https://www.coolblue.be/fr/wishlist
+
 https://www.labourandwait.co.uk
 https://www.powerhouse.coffee
 https://climpsonandsons.com/collections/coffee/products/single-origin-nwarbangyi-myanmar-1
@@ -118,12 +125,28 @@ https://elevastor.com/products/aw21-telfar-ugg-x-telfar-logo-loafer-beige
 https://www.wconcept.co.kr
 https://www.zara.com/be/fr/blouse-imprim-e-p02624138.html?v1=157300279&v2=2025595
 user reviews https://www.madewell.com/embroidered-edencroft-pleat-sleeve-cardigan-sweater-NC730.html?color=HT1292#q=sweater&lang=default&context=women&start=22
+
 https://www.typewolf.com/apercu
 https://twitter.com/
+www.instagram.com
+www.pinterest.com
+www.spotify.com
 
 animation CSS https://animista.net/play/text
 https://jonitrythall.com
+www.dribbble.com/shots/popular/web-design
+https://www.poussetafonte.com
+
 https://sass-lang.com
+https://tailwindcss.com
+
+! mega menu https://codyhouse.co/gem/css-mega-site-navigation
+! https://www.w3schools.com/php/php_ajax_livesearch.asp
+! https://codyhouse.co/demo/secondary-fixed-navigation/index.html
+! https://kenwheeler.github.io/slick/
+! https://imagemappro.com
+! https://cssgrid-generator.netlify.app
+
 
 
 ## 5. Differentiator factor ##
