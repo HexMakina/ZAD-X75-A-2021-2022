@@ -151,6 +151,8 @@ https://tailwindcss.com
 ! https://imagemappro.com
 ! https://cssgrid-generator.netlify.app
 
+! https://www.awwwards.com/awwwards/collections/product-page/
+
 ## 5. Differentiator factor ##
 
 Inspire users in their the day to day routine by delivering them, creative and playful solutions.
