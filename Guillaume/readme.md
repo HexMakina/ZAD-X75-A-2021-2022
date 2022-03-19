@@ -36,7 +36,6 @@
   
   Creative drawing app editors
   
-  
 - https://class101.co
 
   Class101 is a plateform selling over 1000+ online classes to creators.
@@ -127,7 +126,9 @@ https://www.zara.com/be/fr/blouse-imprim-e-p02624138.html?v1=157300279&v2=202559
 user reviews https://www.madewell.com/embroidered-edencroft-pleat-sleeve-cardigan-sweater-NC730.html?color=HT1292#q=sweater&lang=default&context=women&start=22
 
 https://www.typewolf.com/apercu
-https://twitter.com/
+profile https://www.domestika.org/en/guillaumecliment
+profile https://www.freecodecamp.org/guillaumecliment
+profile https://twitter.com/
 www.instagram.com
 www.pinterest.com
 www.spotify.com
@@ -146,8 +147,6 @@ https://tailwindcss.com
 ! https://kenwheeler.github.io/slick/
 ! https://imagemappro.com
 ! https://cssgrid-generator.netlify.app
-
-
 
 ## 5. Differentiator factor ##
 
