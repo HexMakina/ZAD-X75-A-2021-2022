@@ -105,6 +105,7 @@ https://tympanus.net/Development/3DBookShowcase/
 https://tympanus.net/Tutorials/FullscreenBookBlock/
 mega menu https://tympanus.net/Development/ExpandingRoundedMenu/
 https://tympanus.net/Development/GridZoom/
+! https://tympanus.net/Development/ColumnScroll/
 
 https://www.whatfontis.com/?utm_source=baw&utm_medium=baw&utm_campaign=baw
 https://fonts.google.com/specimen/Inter
