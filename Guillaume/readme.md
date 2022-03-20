@@ -151,6 +151,7 @@ https://tailwindcss.com
 ! https://imagemappro.com
 ! https://cssgrid-generator.netlify.app
 ! https://tympanus.net/Blueprints/SlidePushMenus/
+! future contact menu https://tubikstudio.com/
 
 https://www.awwwards.com/awwwards/collections/product-page/
 https://grids.obys.agency/booksandcredits/
