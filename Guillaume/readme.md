@@ -152,6 +152,7 @@ https://tailwindcss.com
 ! https://cssgrid-generator.netlify.app
 
 ! https://www.awwwards.com/awwwards/collections/product-page/
+https://grids.obys.agency/booksandcredits/
 
 ## 5. Differentiator factor ##
 
