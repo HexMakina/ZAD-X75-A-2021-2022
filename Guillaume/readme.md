@@ -150,8 +150,9 @@ https://tailwindcss.com
 ! https://kenwheeler.github.io/slick/
 ! https://imagemappro.com
 ! https://cssgrid-generator.netlify.app
+! https://tympanus.net/Blueprints/SlidePushMenus/
 
-! https://www.awwwards.com/awwwards/collections/product-page/
+https://www.awwwards.com/awwwards/collections/product-page/
 https://grids.obys.agency/booksandcredits/
 https://giuliatonon.it
 https://bennett-tea.com/tea-store.html#matcha-hekisui
