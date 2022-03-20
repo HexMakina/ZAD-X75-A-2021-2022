@@ -154,6 +154,8 @@ https://tailwindcss.com
 ! https://www.awwwards.com/awwwards/collections/product-page/
 https://grids.obys.agency/booksandcredits/
 https://giuliatonon.it
+https://bennett-tea.com/tea-store.html#matcha-hekisui
+https://www.keus-store.com/fr/topo-designs
 
 ## 5. Differentiator factor ##
 
