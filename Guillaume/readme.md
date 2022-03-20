@@ -153,6 +153,7 @@ https://tailwindcss.com
 
 ! https://www.awwwards.com/awwwards/collections/product-page/
 https://grids.obys.agency/booksandcredits/
+https://giuliatonon.it
 
 ## 5. Differentiator factor ##
 
