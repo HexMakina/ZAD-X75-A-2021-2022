@@ -30,6 +30,17 @@ Donc axé sur un certains type de produits et non proposer de tout.
 - Système conseil
 - Live chat
 
+## Listes des catégories
+
+- Smartphone
+- Ordinateur
+- Tablette
+- Accessoires 
+- Périphériques
+- Écrans
+- Imprimantes
+
+
 ## Charte graphique 
 
 
